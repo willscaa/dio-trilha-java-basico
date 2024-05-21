@@ -43,7 +43,7 @@ public class SimulacaoBancaria {
           System.out.println("Opção inválida. Tente novamente."); 
         }
         // Dica: Utilze o switch/case para o programa realizar as operações escolhidas pelo usuário.
-            
+            scanner.close();
                
             }
         }
